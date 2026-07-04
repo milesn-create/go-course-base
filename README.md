@@ -24,18 +24,19 @@
 
 ### go-demo-4 — Продвинутые темы
 - Структуры (`struct`), методы, конструкторы
-- Композиция (embedding)
+- Композиция (embedding), DI (Dependency Injection)
 - Обработка ошибок (`errors.New`, `errors.Is`)
 - Интерфейсы, `any`, type switch, type assertion
 - Generics
 - Работа с файлами и JSON
+- Шифрование AES-GCM (`crypto/aes`, `crypto/cipher`)
+- Переменные окружения (`.env`, `godotenv`)
 - Функции как значения, анонимные функции, замыкания
-- **Итоговый проект:** Менеджер паролей
-## В разработке сейчас  (следующая часть курса)
+- **Итоговый проект:** Менеджер паролей с зашифрованным хранилищем
+
+## В планах (следующая часть курса)
 - HTTP запросы
 - Тесты
-- Переменные окружения
-- Шифрование
 
 ## Темы курса
-`Go` `Structs` `Interfaces` `Generics` `Closures` `JSON` `Error handling`
+`Go` `Structs` `Interfaces` `Generics` `Closures` `JSON` `Error handling` `Encryption` `AES-GCM`

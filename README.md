@@ -43,4 +43,5 @@
 - Табличные тесты (test cases через слайс структур)
 - **Итоговый проект:** CLI приложение — погода по городу
 
+## Темы курса
 `Go` `Structs` `Interfaces` `Generics` `Closures` `JSON` `Error handling` `Encryption` `AES-GCM` `HTTP` `REST API` `Testing` `CLI`

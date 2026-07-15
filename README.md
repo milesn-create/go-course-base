@@ -34,9 +34,13 @@
 - Функции как значения, анонимные функции, замыкания
 - **Итоговый проект:** Менеджер паролей с зашифрованным хранилищем
 
-## В планах (следующая часть курса)
-- HTTP запросы
-- Тесты
+### go-demo-5 — HTTP запросы и тесты
+- HTTP GET и POST запросы (`net/http`)
+- Парсинг JSON ответов (`encoding/json`)
+- Работа с URL и query параметрами (`net/url`)
+- CLI флаги (`flag.String`, `flag.Int`, `flag.Parse`)
+- Unit тесты (`testing`, `t.Error`, `t.Errorf`)
+- Табличные тесты (test cases через слайс структур)
+- **Итоговый проект:** CLI приложение — погода по городу
 
-## Темы курса
-`Go` `Structs` `Interfaces` `Generics` `Closures` `JSON` `Error handling` `Encryption` `AES-GCM`
+`Go` `Structs` `Interfaces` `Generics` `Closures` `JSON` `Error handling` `Encryption` `AES-GCM` `HTTP` `REST API` `Testing` `CLI`
